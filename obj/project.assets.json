@@ -6309,11 +6309,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viet Hung Dang\\Documents\\GitHub\\CodeTest\\CodeTest.csproj",
+      "projectUniqueName": "C:\\Users\\Viet Hung Dang\\Documents\\GitHub\\Betfred-code-test\\CodeTest.csproj",
       "projectName": "CodeTest",
-      "projectPath": "C:\\Users\\Viet Hung Dang\\Documents\\GitHub\\CodeTest\\CodeTest.csproj",
+      "projectPath": "C:\\Users\\Viet Hung Dang\\Documents\\GitHub\\Betfred-code-test\\CodeTest.csproj",
       "packagesPath": "C:\\Users\\Viet Hung Dang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viet Hung Dang\\Documents\\GitHub\\CodeTest\\obj\\",
+      "outputPath": "C:\\Users\\Viet Hung Dang\\Documents\\GitHub\\Betfred-code-test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Viet Hung Dang\\AppData\\Roaming\\NuGet\\NuGet.Config"
