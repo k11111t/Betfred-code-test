@@ -1,13 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlTypes;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
-using System.Text.RegularExpressions;
-using Castle.DynamicProxy.Generators.Emitters.SimpleAST;
-
 namespace CodeTest
 {
     public class TestThree
