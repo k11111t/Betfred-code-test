@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Text.RegularExpressions;
+using Castle.DynamicProxy.Generators.Emitters.SimpleAST;
 
 namespace CodeTest
 {
@@ -29,23 +31,44 @@ namespace CodeTest
             ConsoleLog.LogSub("Test 3: Parse String");
 
             // task 1
-            // using regex to remove the non-alpha numerics
-            string patternNonAlphaNumeric = @"[^a-zA-Z0-9]+";
-            string resultAlphaNumeric = Regex.Replace(value, patternNonAlphaNumeric, "");
-            ConsoleLog.LogResult($"String with only alphanumeric characters: {resultAlphaNumeric}");
+            // optimised code - regex replace is much slower
+            // StringBuilder is a mutable string - does not recreate as string every time I need to append
+            StringBuilder resultAlphaNumeric = new();
+            // creating the string here so I dont need to iterate again - can save time if the string is long
+            StringBuilder resultAlphabetical = new();
+
+            foreach(char c in value) 
+            {
+                if(char.IsLetterOrDigit(c)) resultAlphaNumeric.Append(c);
+                if(char.IsLetter(c)) resultAlphabetical.Append(c);
+
+            }
+            ConsoleLog.LogResult(resultAlphaNumeric.ToString());
 
             // task 2
-            // match the numbers in the string
-            string patternNumber = @"[0-9]+";
-            MatchCollection matchCollection = Regex.Matches(value, patternNumber);
-            List<Match> matches = matchCollection.OrderBy(x => int.Parse(x.Value)).ToList();
-            ConsoleLog.LogResult($"Numbers sorted in order: ");
-            for(int i=0; i<matches.Count; i++) ConsoleLog.LogText($"{matches[i].Value}");
+            List<int> resultNumbers = new();
+            StringBuilder tempNumber = new();
+            foreach (char c in value)
+            {
+                //keep appending digits
+                if (char.IsDigit(c)) tempNumber.Append(c);
+                else if (tempNumber.Length != 0)
+                {
+                    resultNumbers.Add(int.Parse(tempNumber.ToString()));
+                    tempNumber.Clear();
+                }
+            }
+            if (tempNumber.Length > 0) resultNumbers.Add(int.Parse(tempNumber.ToString()));
             
+            resultNumbers.Sort( (x,y) => x-y );
+            ConsoleLog.LogResult("Numbers sorted:");
+            foreach(int i in resultNumbers)
+            {
+                ConsoleLog.LogText($"{i}");
+            }
+
             // task 3
-            // replace the numbers and set the remaining chars to uppercase
-            string resultNonNumeric = Regex.Replace(resultAlphaNumeric, patternNumber, "");
-            ConsoleLog.LogResult($"Remaining characters in uppercase: {resultNonNumeric.ToUpper()}"); // or loop through it if needed
+            ConsoleLog.LogResult($"Remaining characters in uppercase: {resultAlphabetical.ToString().ToUpper()}");
 
             ConsoleLog.LogSub("Test 3 End: Parse String");
         }

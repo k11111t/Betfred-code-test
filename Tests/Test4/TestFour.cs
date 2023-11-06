@@ -39,6 +39,11 @@ namespace CodeTest
             List<ExampleObject> exampleObjects = new();
             JsonDocument jsonDocument = JsonDocument.Parse(jsonText);
 
+            // sacrificing a bit of memory here so I dont need to iterate through the entire array again
+            // can save time if the list is too long and there is few items with search ref of 1
+            // means I need to iterate over the entire array only once
+            List<ExampleObject> namesWithSearchReference1 = new();
+
             foreach (JsonElement e in jsonDocument.RootElement.EnumerateArray())
             { 
                 if(e.ValueKind != JsonValueKind.Null)
@@ -53,6 +58,8 @@ namespace CodeTest
                         SearchReference = searchReference
                     };
                     exampleObjects.Add(exampleObject);
+
+                    if(searchReference == 1) namesWithSearchReference1.Add(exampleObject);
                 }
             }
             
@@ -62,10 +69,7 @@ namespace CodeTest
             //task 3
             // return all objects with search reference of 1
             ConsoleLog.LogResult("Objects with search reference equal to 1:");
-            foreach(ExampleObject e in exampleObjects)
-            {
-                if(e.SearchReference == 1) ConsoleLog.LogText($"{e.Name}");
-            }
+            foreach(ExampleObject e in namesWithSearchReference1) ConsoleLog.LogText($"{e.Name}");
 
             ConsoleLog.LogSub("Test 4 End: Convert Json");            
         }
