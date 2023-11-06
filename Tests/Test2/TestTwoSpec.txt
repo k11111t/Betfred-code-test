@@ -1,0 +1,14 @@
+﻿*********************
+*******Test 2********
+*********************
+
+- Dealing with multiple entities -
+
+Using what you created in Test One, we're going to expand it to deal with multiple Customers.
+
+Test Steps:
+1) Create 3 new Customers and save them to the database.
+2) Get the 1st Customer from the database and print their name on screen.
+3) Update the 2nd customer and change their name in the database. Regrab that customer from the database then print their name.
+4) Delete the 3rd Customer from the database. Print all of the customers names in the database to show it has removed.
+5) Delete the remaining Customers from the database. Print all of the customers names from the database to show it is clear.

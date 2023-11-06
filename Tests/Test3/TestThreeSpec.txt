@@ -1,0 +1,15 @@
+﻿*********************
+*******Test 3********
+*********************
+
+- Data Manipulation -
+
+This test covers some data manipulation  - such as pulling values out of an unstructured string and converting a JSON object into a usable object in C#.
+
+Test Steps:
+1) Remove the non-alphanumeric characters
+2) Print the numbers in order
+3) Print the remianing non numeric characters in the current order, in uppercase.
+
+Note:
+Step one doesn't have to be completed first but the printing must be completed in the order specified.

@@ -1,0 +1,168 @@
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.exe
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Tests\Test4\Test4Json.txt
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.deps.json
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.json
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.dev.json
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.pdb
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfoInputs.cache
+E:\CodeTest\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfo.cs
+E:\CodeTest\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.csproj.CopyComplete
+E:\CodeTest\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.dll
+E:\CodeTest\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.pdb
+E:\CodeTest\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.csprojAssemblyReference.cache
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.exe
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Tests\Test4\Test4Json.txt
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.deps.json
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.json
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.dev.json
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\CodeTest.pdb
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.csprojAssemblyReference.cache
+E:\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfoInputs.cache
+E:\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfo.cs
+E:\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.csproj.CopyComplete
+E:\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.dll
+E:\CodeTest\CodeTest\obj\Debug\netcoreapp3.1\CodeTest.pdb
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\CodeTest.exe
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Tests\Test4\Test4Json.txt
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\CodeTest.deps.json
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.json
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.dev.json
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\CodeTest.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\CodeTest.pdb
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\Code Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.csproj.AssemblyReference.cache
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfoInputs.cache
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.AssemblyInfo.cs
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.csproj.CoreCompileInputs.cache
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.csproj.CopyComplete
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.dll
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.pdb
+C:\Projects\Code Test\obj\Debug\netcoreapp3.1\CodeTest.genruntimeconfig.cache

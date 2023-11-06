@@ -1,0 +1,29 @@
+﻿*********************
+*******Test 1********
+*********************
+
+-SIMPLE CRUD OPERATIONS-
+
+Using the Example as a guide, Test one is to perform simple CRUD (Create, Read, Update, Delete) functionality to a Customer record.
+
+The Customer must have a:
+ID,
+Name,
+Address,
+Postcode,
+Phonenumber
+
+Use the placeholder methods in the 'TestOne.cs' to execute the functionality.
+
+You'll need to create:
+Database Service to return the results (example - Database.Services.ExampleService.cs)
+Object model to hold the Customer data (example - Models.ExampleObject.cs)
+
+You'll need to Configure:
+the database (Database.Database.cs) to hold the new Customer Table.
+
+Test Steps:
+1) Create a new customer record and save them to the database.
+2) Get Customer record from the database and log out their name and ID.
+3) Get Customer record from the database and change their name. Log out their name before saving to the database, then get the record back from the database and print it again.
+4) Remove the Customer record from the database and prove it no longer exists.
